@@ -1,1 +1,1 @@
-grid gallery
+grid gallery design
